@@ -1,4 +1,4 @@
-#shopping
+# shopping
 
 - [] Bath mat
 - [] Knives
