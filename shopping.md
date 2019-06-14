@@ -7,7 +7,9 @@
 - [ ] Pans/Pots
   - [ ] Large pan (lid)
   - [ ] Large pot (lid)
-  - [ ] Some pan
+  - [ ] Some pan (frying)
+- [ ] collander
+- [ ] blender
 - [ ] Baking sheet
 - [ ] Large bag of rice
 - [ ] Spices
@@ -20,3 +22,4 @@
 - [ ] Strong, thin metal cable for purposes such as but not limited to zipline
 - [ ] Shoe rack
 - [ ] Toaster
+
